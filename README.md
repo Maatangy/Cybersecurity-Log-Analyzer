@@ -69,9 +69,7 @@ All results are saved in a CSV file (`log_analysis_results.csv`) with a clean st
    git clone https://github.com/your-username/VRV-Log-Analyzer.git
    cd VRV-Log-Analyzer
  ---
-Sample Output 
-Sample terminal output 
- IP Address           Request Count
+IP Address           Request Count
 192.168.1.1          7
 203.0.113.5          8
 192.168.1.100        5
@@ -86,8 +84,6 @@ IP Address           Failed Login Attempts
 203.0.113.5          12
 192.168.1.100        15
 
-Sample CSV file output 
-Requests per IP
 IP Address,Request Count
 192.168.1.1,7
 203.0.113.5,8
@@ -95,16 +91,9 @@ IP Address,Request Count
 10.0.0.2,6
 198.51.100.23,5
 
-Most Accessed Endpoint
 Endpoint,Access Count
 /login,13
 
-Suspicious Activity
 IP Address,Failed Login Count
 203.0.113.5,12
 192.168.1.100,15
-
-     
-
-   
-
