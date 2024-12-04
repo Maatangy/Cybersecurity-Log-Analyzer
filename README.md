@@ -1,6 +1,6 @@
 # Cybersecurity-Log-Analyzer
 ## Overview
-The ** Cybersecurity-Log-Analyzer** is a Python-based script designed to efficiently process server log files and extract valuable insights for cybersecurity and operational purposes. It demonstrates expertise in file handling, string manipulation, data analysis, and reporting, making it an essential utility for organizations seeking robust log analysis solutions.
+The Cybersecurity-Log-Analyzer is a Python-based script designed to efficiently process server log files and extract valuable insights for cybersecurity and operational purposes. It demonstrates expertise in file handling, string manipulation, data analysis, and reporting, making it an essential utility for organizations seeking robust log analysis solutions.
 
 This project highlights my ability to work with real-world data and develop tools to identify key metrics, patterns, and potential security risks. It showcases my commitment to building solutions that are both practical and impactful.
 
@@ -69,8 +69,8 @@ All results are saved in a CSV file (`log_analysis_results.csv`) with a clean st
    git clone https://github.com/your-username/VRV-Log-Analyzer.git
    cd VRV-Log-Analyzer
  ---
- ## Sample Output 
- ###Sample terminal output 
+Sample Output 
+Sample terminal output 
  IP Address           Request Count
 192.168.1.1          7
 203.0.113.5          8
@@ -86,7 +86,7 @@ IP Address           Failed Login Attempts
 203.0.113.5          12
 192.168.1.100        15
 
-###Sample CSV file output 
+Sample CSV file output 
 Requests per IP
 IP Address,Request Count
 192.168.1.1,7
