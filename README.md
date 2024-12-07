@@ -69,6 +69,13 @@ All results are saved in a CSV file (`log_analysis_results.csv`) with a clean st
    git clone https://github.com/your-username/VRV-Log-Analyzer.git
    cd VRV-Log-Analyzer
  ---
+### Future Improvements
+- Integrate a web-based user interface (UI) for easier interaction and visualization.
+- Add data visualization for log metrics using libraries like `matplotlib` or `Plotly`.
+- Include automated email alerts for suspicious activities.
+- Support for real-time log processing.
+---
+ 
 ### **Sample Output**
 
 #### **Terminal Output**
@@ -101,4 +108,6 @@ Endpoint,Access Count
 IP Address,Failed Login Count
 203.0.113.5,12
 192.168.1.100,15
+
+
 
