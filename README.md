@@ -62,12 +62,6 @@ All results are saved in a CSV file (`log_analysis_results.csv`) with a clean st
 ### **Requirements**
 - Python 3.13 or later.
 - A server log file (e.g., `sample.log`).
-
-### **Steps to Run**
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/VRV-Log-Analyzer.git
-   cd VRV-Log-Analyzer
  ---
 ### Future Improvements
 - Integrate a web-based user interface (UI) for easier interaction and visualization.
