@@ -31,10 +31,6 @@ This project highlights my ability to work with real-world data and develop tool
 - **Real-World Applicability**: Addresses common log analysis use cases in cybersecurity and system monitoring.
 - **CSV Reporting**: Facilitates seamless integration with data visualization and reporting platforms.
 
----
-
-## File Structure
-VRV_Project/ ├── log_analysis.py # The Python script for log analysis ├── sample.log # Sample log file used for testing ├── log_analysis_results.csv # CSV file containing the analysis results ├── README.md # Documentation for the project
 
 ---
 
