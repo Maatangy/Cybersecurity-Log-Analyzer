@@ -57,12 +57,6 @@ All results are saved in a CSV file (`log_analysis_results.csv`) with a clean st
 3. Suspicious activity (if any).
 
 ---
-
-## Usage Instructions
-### **Requirements**
-- Python 3.13 or later.
-- A server log file (e.g., `sample.log`).
- ---
 ### Future Improvements
 - Integrate a web-based user interface (UI) for easier interaction and visualization.
 - Add data visualization for log metrics using libraries like `matplotlib` or `Plotly`.
